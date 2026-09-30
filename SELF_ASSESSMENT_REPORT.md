@@ -1,6 +1,6 @@
 # Self-assessment — IA#1
 
-Submitted by: <student ID> — <full name>
+Submitted by: 24120101 — Tô Lãng Nghị
 
 Total I claim: 100 / 100
 
